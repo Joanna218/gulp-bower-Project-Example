@@ -1,0 +1,19 @@
+{
+  "name": "gulptest",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "angular": "^1.6.9",
+    "jquery-validation": "^1.17.0"
+  }
+}
